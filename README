@@ -1,0 +1,8 @@
+The Navy project aims to learn us how to use the kill function, and therefore send signal to comunicate between process.
+To play : you have to open two tabs, for the first one you run ./navy map ;
+you pid will appear, and for the second one you have to run : ./navy map pid_player1.
+
+Then, enter some coordinate for sink your opponent !
+
+
+Enjoy!
