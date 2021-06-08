@@ -1,17 +1,17 @@
-The Navy project aims to learn us how to use the kill function, and therefore send some signals to comunicate between process.
-You have to provide a map, which is a file which contains your boards disposition. The map need to be configured as :
+The Navy project aims to learn us how to use the kill function, and therefore send some signals to comunicate between processes.
+You have to provide a map, which is a file that contains your boats dispositions. The map needs to be configured as :
 
 2:B1:B2
 3:C1:E1
 4:H1:H5
 
-Obviously, the boards must be spaced.
-The first number corresponds to the length's board.
+Obviously, the boats must be spaced.
+The first number corresponds to the length's boat.
 
-To play : you have to open two tabs, for the first one you run ./navy map ;
-you pid will appear, and for the second one you have to run : ./navy map pid_player1.
+To start : open two tabs, for the first one run ./navy map ;
+you pid will appear, and for the second one just run : ./navy map pid_player1.
 
-Then, enter some coordinate in order to sink your opponent !
+Then, enter some coordinates in order to sink your opponent !
 
 
 Enjoy!
