@@ -40,6 +40,4 @@ Maybe an ncurses application !
 * [Bogdan G.](https://www.github.com/bogdzn)
 
 
-
-
 Enjoy!
